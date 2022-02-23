@@ -1,0 +1,3 @@
+# Fuzzy-Logic-Based_Obstacle-Avoidance
+
+This project develops and evaluates the performance of a fuzzy controller for obstacle avoidance of mobile robots. The fuzzy inference system used in this project is a  Takagi-Sugeno-Kang  (TSK)  fuzzy inference system,  which has  16  rules. Using the three sensors of the robot,  we have constructed three input membership functions. And the output of the developed  TSK  inference system is a  function of the three inputs. The performance of the developed fuzzy logic-based controller has been  tested using a  virtual environment in V-REP. Based on the performance evaluation,  the developed fuzzy logic controller has successfully avoided the obstacles and made the robot navigate safely.
